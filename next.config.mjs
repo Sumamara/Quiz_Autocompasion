@@ -3,7 +3,7 @@ const nextConfig = {
     // Output standalone for easier dockerization if needed, but default is fine
     reactStrictMode: true,
     output: 'export',
-    basePath: '/Encuesta_autocompasion',
+    basePath: '/Quiz_Autocompasion',
     images: {
         unoptimized: true,
     },
